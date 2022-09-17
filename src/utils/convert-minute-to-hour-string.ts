@@ -1,6 +1,6 @@
 
 /**
- * @param hourString 600 -> "10:00"
+ * @param minutesAmount 600 -> "10:00"
  */
  export function convertMinutesToHourString(minutesAmount: number) {
     const hours = Math.floor(minutesAmount / 60);
