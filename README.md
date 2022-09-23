@@ -8,7 +8,7 @@
   <a href="#memo-about">About</a> &#xa0; | &#xa0; 
   <!-- <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; -->
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#bookmark-api-reference">API Reference</a> &#xa0; | &#xa0;
   <a href="#memo-license-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/itzmatheus" target="_blank">Author</a>
@@ -50,7 +50,7 @@ Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](htt
 
 Suggest: https://github.com/nvm-sh/nvm
 
-## :checkered_flag-starting: Starting
+## :checkered_flag: Starting
 
 ```bash
 # Clone this project
