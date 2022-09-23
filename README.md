@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="#📝-about">About</a> &#xa0; | &#xa0; 
+  <a href="#memo-about">About</a> &#xa0; | &#xa0; 
   <!-- <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; -->
   <a href="#✅-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#🔖-api-reference">API Reference</a> &#xa0; | &#xa0;
@@ -15,7 +15,7 @@
 </p>
 
 
-## 📝 About
+## :memo: About
 
 During the event **NLW eSports** we have developed a _web_ and _mobile_ platform where Gamers can find partners for the most popular games being displayed on Twitch. This project is part of the Ignite Trail and we learned about NodeJS with Express, React with TypeScript and React Native with Expo.
 
@@ -112,7 +112,7 @@ Response status code 200
         "title": "League of Legends",
         "bannerUrl": "url",
         "_count": {
-            "ads": 
+            "ads": 1,
         }
     },
 ]
