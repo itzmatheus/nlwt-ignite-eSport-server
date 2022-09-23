@@ -10,7 +10,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#bookmark-api-reference">API Reference</a> &#xa0; | &#xa0;
-  <a href="#memo-license-license">License</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/itzmatheus" target="_blank">Author</a>
 </p>
 
@@ -185,7 +185,7 @@ Response status code 200
 
 ---
 
-## :memo-license: License
+## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
