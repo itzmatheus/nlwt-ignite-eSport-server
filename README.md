@@ -27,7 +27,7 @@ This project was developed during the event **#NLWtogether** hosted by [Rocketse
 | 🪧 Vitrine.Dev   |     |
 | --------------- | --- |
 | ✨ Nome         | **API NLW eSports** - Rocketseat |
-| 🏷️ Tecnologias  | TypeScript, NodeJS, TypeScript e Prisma |
+| 🏷️ Tecnologias  | TypeScript, NodeJS, Express e Prisma |
 | 💻 Web version  | [Click here](https://github.com/itzmatheus/nlwt-ignite-eSport-web) |
 | 📲 Mobile version | [Click here](https://github.com/itzmatheus/nlwt-ignite-eSport-mobile) |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
@@ -187,7 +187,7 @@ Response status code 200
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 <a href='#top'>🔼 Back to top</a>
