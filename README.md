@@ -7,10 +7,10 @@
 <p align="center">
   <a href="#memo-about">About</a> &#xa0; | &#xa0; 
   <!-- <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; -->
-  <a href="#✅-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#🔖-api-reference">API Reference</a> &#xa0; | &#xa0;
-  <a href="#🏁-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#📝-license">License</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#bookmark-api-reference">API Reference</a> &#xa0; | &#xa0;
+  <a href="#memo-license-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/itzmatheus" target="_blank">Author</a>
 </p>
 
@@ -44,13 +44,13 @@ The project was totally developed according to the instructions given, no aditio
 
 -   Discord authentication, automatically filling the form field for Discord username.
 
-## ✅ Requirements
+## :white_check_mark: Requirements
 
 Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) v16.14.0 installed.
 
 Suggest: https://github.com/nvm-sh/nvm
 
-## 🏁 Starting
+## :checkered_flag-starting: Starting
 
 ```bash
 # Clone this project
@@ -68,7 +68,7 @@ $ npm run dev
 
 PS: if you have [make](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html) installed, consult Makefile to see all commands shortcuts =)
 
-## 🔖 API Reference
+## :bookmark: API Reference
 
 #### List Ads By Game
 
@@ -185,7 +185,7 @@ Response status code 200
 
 ---
 
-## 📝 License
+## :memo-license: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
