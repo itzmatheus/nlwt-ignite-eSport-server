@@ -26,8 +26,8 @@ This project was developed during the event **#NLWtogether** hosted by [Rocketse
 <!-- prettier-ignore -->
 | 🪧 Informations   |     |
 | --------------- | --- |
-| ✨ Nome         | **API NLW eSports** - Rocketseat |
-| 🏷️ Tecnologias  | TypeScript, NodeJS, Express e Prisma |
+| ✨ Name         | **API NLW eSports** - Rocketseat |
+| 🏷️ Technologies  | TypeScript, NodeJS, Express e Prisma |
 | 💻 Web version  | [Click here](https://github.com/itzmatheus/nlwt-ignite-eSport-web) |
 | 📲 Mobile version | [Click here](https://github.com/itzmatheus/nlwt-ignite-eSport-mobile) |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
