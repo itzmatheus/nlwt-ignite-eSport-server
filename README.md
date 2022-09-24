@@ -24,7 +24,7 @@ The web application allows us to create ads and find game partners (or duos). In
 This project was developed during the event **#NLWtogether** hosted by [Rocketseat](https://www.rocketseat.com.br) with the help of the instructors [Diego Fernandes](https://github.com/diego3g) and [Rodrigo Gonçalves](https://github.com/rodrigorgtic).
 
 <!-- prettier-ignore -->
-| 🪧 Vitrine.Dev   |     |
+| 🪧 Informations   |     |
 | --------------- | --- |
 | ✨ Nome         | **API NLW eSports** - Rocketseat |
 | 🏷️ Tecnologias  | TypeScript, NodeJS, Express e Prisma |
@@ -61,6 +61,8 @@ $ cd nlwt-ignite-eSport-server
 $ npm install
 # Create sqlite db local
 $ npx prisma init --datasource-provider SQLite
+# Run migrations
+$ npx prisma migrate dev
 # Run the project
 $ npm run dev
 # The server will initialize in the <http://localhost:3333>
