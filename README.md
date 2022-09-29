@@ -32,11 +32,7 @@ This project was developed during the event **#NLWtogether** hosted by [Rocketse
 | 📲 Mobile version | [Click here](https://github.com/itzmatheus/nlwt-ignite-eSport-mobile) |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
 
-![](https://raw.githubusercontent.com/sucodelarangela/nlw-esports-ignite/main/web/public/og-image.jpg#vitrinedev)
-
-<div>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
+![](https://github.com/itzmatheus/nlwt-ignite-eSport-web/blob/main/prints/Home.png?raw=true)
 
 ## 🩹 Improvements needed
 
